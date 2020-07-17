@@ -1,6 +1,11 @@
-[size=200][center]# hello_django﻿
-Projeto Calculadora DigitalOneInnovation[/center][/size][center][size=150]Aluno: Richard Guesso
-Professor: Rafael Galleani[/size][/center][font=Georgia][size=150]
+﻿
+# hello_django﻿
+Projeto Calculadora DigitalOneInnovation
+
+Aluno: Richard Guesso
+Professor: Rafael Galleani
+
+
 
 Para fazer uma Soma:
 http://127.0.0.1:8000/somar/num1/num2/
@@ -24,4 +29,3 @@ Para fazer uma Divisão:
 http://127.0.0.1:8000/dividir/num1/num2/
 Ex: http://127.0.0.1:8000/dividir/10/2/
 Resultado = 5
-[/size][/font]
