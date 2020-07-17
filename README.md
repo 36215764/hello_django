@@ -6,7 +6,7 @@ Professor: Rafael Galleani
 
 
 
-Para fazer uma Soma: http://127.0.0.1:8000/somar/num1/num2/ \n
+Para fazer uma Soma: http://127.0.0.1:8000/somar/num1/num2/
 
 Ex: http://127.0.0.1:8000/somar/20/20/
 Resultado = 40
