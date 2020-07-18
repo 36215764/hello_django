@@ -4,7 +4,6 @@
 Aluno: Richard Guesso
 Professor: Rafael Galleani
 
-Imagem:
 [![Demostração](https://rikagames.tk/defencebr/img/exemplo.png "Demostração")](https://rikagames.tk/defencebr/img/exemplo.png "Demostração")
 ### Soma
 ###### Para fazer uma Soma: http://127.0.0.1:8000/somar/num1/num2/
