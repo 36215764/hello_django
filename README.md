@@ -1,4 +1,4 @@
-# hello_django
+# Projeto: hello_django
 ##### Projeto Calculadora DigitalOneInnovation
 
 Aluno: Richard Guesso
